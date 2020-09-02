@@ -1,2 +1,2 @@
 # python_whatsapp_bot_
-Spam bot project
+My first bot project for training
