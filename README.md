@@ -1,2 +1,2 @@
-# python_whatsapp_bot_
+# python_bot
 My first bot project for training
